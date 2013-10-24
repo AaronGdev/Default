@@ -1,0 +1,4 @@
+Default
+=======
+
+My default repository.
